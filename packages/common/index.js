@@ -1,4 +1,4 @@
 module.exports = () => {
   console.log("hello from common 12");
-  console.log("test");
+  console.log("I am doing any test");
 };
